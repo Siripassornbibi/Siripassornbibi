@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siripassorn
+# Hi and Welcome to Siripassorn's GitHub profile!👋👧🏻
 <p>I'm a third-year Computer Science student at Srinakharinwirot University. A hardworking and organized individual with strong time management skills. Passionate about programming and continuously expanding my knowledge. Always eager to learn, take on new challenges, and grow as a developer or data scientist.</p>
 
 ## ✦ About Me
@@ -22,10 +22,10 @@ Name: Siripassorn Siwanno or you can call me Baibua
 </p>
 
 ## ✦ My Interests
-<li>Developer & Programming</li>
-<li>Data Scientist</li>
-<li>Investment and Business</li>
-<li>AI</li>
+<li>👩‍💻 Developer & Programming</li>
+<li>📊 Data Scientist</li>
+<li>🧳 Investment and Business</li>
+<li>🤖 AI</li>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&locale=en&layout=compact" alt="siripassornbibi" />
