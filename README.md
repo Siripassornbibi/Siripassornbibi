@@ -1,9 +1,10 @@
-# Hi and Welcome to Siripassorn's GitHub profile!👋👧🏻
-<p>I'm a third-year Computer Science student at Srinakharinwirot University. A hardworking and organized individual with strong time management skills. Passionate about programming and continuously expanding my knowledge. Always eager to learn, take on new challenges, and grow as a developer or data scientist.</p>
+# Hi & Welcome to Siripassorn's GitHub profile!👋👧🏻
+<p>Welcome to my GitHub! This is where I keep all my projects and things I’ve been working on. Feel free to take a look around.
+</p>
 
 ## ✦ About Me
 <p>
-Name: Siripassorn Siwanno or you can call me Baibua
+Let me introduce myself! I'm a third-year Computer Science student at Srinakharinwirot University. A hardworking and organized individual with strong time management skills. Passionate about programming and continuously expanding my knowledge. Always eager to learn, take on new challenges, and grow as a developer or data scientist.
 </p>
 
 ## ✦ Connect with me
