@@ -22,7 +22,7 @@ Name: Siripassorn Siwanno or you can call me Baibua
 </p>
 
 ## ✦ My Interests
-<li>Developer</li>
+<li>Developer & Programming</li>
 <li>Data Scientist</li>
 <li>Investment and Business</li>
 <li>AI</li>
