@@ -17,6 +17,7 @@ Name: Siripassorn Siwanno or you can call me Baibua
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,flutter,c" />
+    <p>python | java | flutter |c</p>
   </a>
 </p>
 
