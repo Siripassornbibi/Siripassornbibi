@@ -25,7 +25,7 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 </p>
 
 ## ✦ Connect with me
-<a target="_blank" href="siripassorn.bibi@g.swu.ac.th"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="siripassorn.bibi@g.swu.ac.th?subject=Hello&body=Dear Siripassorn,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/siripassorn-siwanno-277101305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://www.leetcode.com/https://leetcode.com/u/siripassorn/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a>
 
