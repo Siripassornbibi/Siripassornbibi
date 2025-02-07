@@ -14,26 +14,26 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 <li>🧳 Investment and Business</li>
 <li>🤖 AI</li>
 
+<img src="image_1.gif" alt="image_1" align="right">
+
 ## ✦ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,flutter,c" />
-    <p>python | java | flutter |c</p>
+    <img src="https://skillicons.dev/icons?i=py,java,flutter,c,js,php" />
+    <p>Python | Java | Flutter | C | JavaScript | php</p>
   </a>
 </p>
 
 ## ✦ Connect with me
-<p align="left">
-  <a href="https://www.leetcode.com/https://leetcode.com/u/siripassorn/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/siripassorn/" height="30" width="40" />
-  </a>
-</p>
+<a target="_blank" href="siripassorn.bibi@g.swu.ac.th"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/siripassorn-siwanno-277101305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.leetcode.com/https://leetcode.com/u/siripassorn/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&locale=en&layout=compact" alt="siripassornbibi" />
-  <img src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&locale=en" alt="siripassornbibi" />
-</div>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siripassornbibi&" alt="siripassornbibi" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&title_color=2076f9&text_color=ffe0fb&bg_color=192130&hide_border=true&locale=en&layout=compact" alt="siripassornbibi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&title_color=1f76f9&text_color=ffe0fb&bg_color=192130&hide_border=true&cache_seconds=1800&locale=en" alt="siripassornbibi" /></p>
+
+
+
+
 
