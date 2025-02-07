@@ -29,9 +29,14 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 <a target="_blank" href="https://www.linkedin.com/in/siripassorn-siwanno-277101305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://www.leetcode.com/https://leetcode.com/u/siripassorn/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&title_color=2076f9&text_color=ffe0fb&bg_color=192130&hide_border=true&locale=en&layout=compact" alt="siripassornbibi" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&title_color=1f76f9&text_color=ffe0fb&bg_color=192130&hide_border=true&cache_seconds=1800&locale=en" alt="siripassornbibi" /></p>
+<img alt="image_2" align="left" width="150px" src="image_2.gif">
+
+<p>
+  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&title_color=2076f9&text_color=ffe0fb&bg_color=192130&hide_border=true&locale=en&layout=compact" alt="siripassornbibi" />
+  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&title_color=1f76f9&text_color=ffe0fb&bg_color=192130&hide_border=true&cache_seconds=1800&locale=en" alt="siripassornbibi" />
+</p>
 
 
 
