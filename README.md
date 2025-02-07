@@ -30,7 +30,7 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/siripassorn-siwanno-277101305/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="https://www.leetcode.com/https://leetcode.com/u/siripassorn/">
+<a target="_blank" href="https://leetcode.com/u/Siripassorn/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" />
 </a>
 
