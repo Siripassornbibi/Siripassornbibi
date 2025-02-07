@@ -32,8 +32,8 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 <hr/>
 <p>
   <img alt="image_2" align="left" width="150px" src="image_2.gif">
-  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&title_color=2076f9&text_color=ffe0fb&bg_color=192130&hide_border=true&locale=en&layout=compact" alt="siripassornbibi" />
-  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&title_color=1f76f9&text_color=ffe0fb&bg_color=192130&hide_border=true&cache_seconds=1800&locale=en" alt="siripassornbibi" />
+  <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=siripassornbibi&show_icons=true&title_color=2076f9&text_color=ffe0fb&bg_color=192130&hide_border=true&locale=en&layout=compact" alt="siripassornbibi" />
+  <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api?username=siripassornbibi&show_icons=true&title_color=1f76f9&text_color=ffe0fb&bg_color=192130&hide_border=true&cache_seconds=1800&locale=en" alt="siripassornbibi" />
 </p>
 
 
