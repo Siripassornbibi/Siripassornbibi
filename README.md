@@ -20,7 +20,7 @@ Let me introduce myself! I'm a third-year Computer Science student at Srinakhari
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,flutter,c,js,php" />
-    <p>Python | Java | Flutter | C | JavaScript | php</p>
+    <p>Python | Java | Flutter | C | JavaScript | PHP</p>
   </a>
 </p>
 
