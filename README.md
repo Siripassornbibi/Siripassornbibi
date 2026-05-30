@@ -5,7 +5,7 @@
 
 ## ✦ About Me
 <p>
-Let me introduce myself! I'm a third-year Computer Science student at Srinakharinwirot University. A hardworking and organized individual with strong time management skills. Passionate about programming and continuously expanding my knowledge. Always eager to learn, take on new challenges, and grow as a developer or data scientist.
+Let me introduce myself! I'm just a graduated Computer Science student at Srinakharinwirot University. A hardworking and organized individual with strong time management skills. Passionate about programming and continuously expanding my knowledge. Always eager to learn, take on new challenges, and grow as a developer.
 </p>
 
 ## ✦ My Interests
